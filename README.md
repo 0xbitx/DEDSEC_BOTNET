@@ -1,37 +1,35 @@
 <p align="center">
-<img src="https://media1.giphy.com/media/7CvPkkkpqkic7J8JMC/200w.webp?cid=ecf05e47nsy9v0zj1k1xjv3xfgpkp9vqjk1pewwixrmx2njr&ep=v1_gifs_related&rid=200w.webp&ct=g", width="300", height="300">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBoNmJ2M25lOWQzeGlhbGJ1NmszOHd2NThlcjN4b3BxcTVhcXNuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dC9QUIvgkME4FG0e14/giphy.gif", width="300", height="300">
 </p>
 
 <h1 align="center"> DEDSEC_BOTNET </h1>
-<h4 align="center"> DEDSEC LINUX BOTNET BUILDER</h4>
-<h4 align="center"> DEDSEC_BOTNET is a Linux-based botnet Builder tool .</h4>
+<h4 align="center"> DEDSEC BOTNET BUILDER</h4>
 
 ### DESCRIPTION
 
 DEDSEC_BOTNET is a Linux-based botnet builder designed for creating advanced botnet payloads. The tool allows users to inject malicious payloads into legitimate Python code or other software, enabling the creation of stealthy and persistent botnets. The payload is equipped with advanced features, including the ability to hide within a victim's system and ensure continuous operation through persistence mechanisms.
 
 The primary function of the botnet payload is to send flood requests to a target server, enabling Distributed Denial of Service (DDoS) attacks. This tool is intended solely for penetration testing and ethical hacking purposes. Always ensure you have explicit permission before using this tool on any device or network. Unauthorized use is illegal and unethical.
-Key Features:
 
-    Botnet Payload Injection: Inject malicious payloads into legitimate Python code or other software.
+#### Key Features:
 
-    Persistence: Ensures the payload remains active on the victim's system even after reboots.
+* Botnet Payload Injection: Inject malicious payloads into legitimate Python code or other software.
 
-    Stealth: The payload is designed to hide within the system, avoiding detection.
+* Persistence: Ensures the payload remains active on the victim's system even after reboots.
 
-    DDoS Capability: The primary function of the payload is to send flood requests to a target server, overwhelming it and causing a denial of service.
+* Stealth: The payload is designed to hide within the system, avoiding detection.
 
-    Cross-Platform Compatibility: Designed for Linux but can be adapted for other systems.
+* DDoS Capability: The primary function of the payload is to send flood requests to a target server, overwhelming it and causing a denial of service.
 
-Intended Use:
+#### Intended Use:
 
-    Penetration Testing: Simulate advanced attacks to identify vulnerabilities in systems and networks.
+* Penetration Testing: Simulate advanced attacks to identify vulnerabilities in systems and networks.
 
-    Ethical Hacking: Test the resilience of systems against botnet-based attacks.
+* Ethical Hacking: Test the resilience of systems against botnet-based attacks.
 
-    Research and Education: Study botnet behavior and develop countermeasures.
+* Research and Education: Study botnet behavior and develop countermeasures.
 
-Legal Disclaimer:
+#### Legal Disclaimer:
 
 This tool is intended for legal and authorized purposes only. Unauthorized use of this tool for malicious purposes is strictly prohibited and may result in legal consequences. Always obtain proper authorization before using this tool on any system or network. The developers and distributors of this tool are not responsible for any misuse or damage caused by its use.
 ## Features
