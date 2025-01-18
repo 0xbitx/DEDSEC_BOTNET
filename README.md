@@ -32,7 +32,6 @@ The primary function of the botnet payload is to send flood requests to a target
 #### Legal Disclaimer:
 
 This tool is intended for legal and authorized purposes only. Unauthorized use of this tool for malicious purposes is strictly prohibited and may result in legal consequences. Always obtain proper authorization before using this tool on any system or network. The developers and distributors of this tool are not responsible for any misuse or damage caused by its use.
-## Features
 
 ### INSTALLATION
      git clone https://github.com/0xbitx/DEDSEC_BOTNET.git
