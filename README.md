@@ -36,6 +36,7 @@ This tool is intended for legal and authorized purposes only. Unauthorized use o
 ### INSTALLATION
      git clone https://github.com/0xbitx/DEDSEC_BOTNET.git
      cd DEDSEC_BOTNET
+     sudo pip3 install psutil tabulate --break
      chmod +x dedsec_botnet
      sudo ./dedsec_botnet
 
